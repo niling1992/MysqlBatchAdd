@@ -1,0 +1,7 @@
+E:\MysqlBatchAdd\MysqlBatchAdd\bin\Debug\MysqlBatchAdd.exe.config
+E:\MysqlBatchAdd\MysqlBatchAdd\obj\Debug\MysqlBatchAdd.csprojResolveAssemblyReference.cache
+E:\MysqlBatchAdd\MysqlBatchAdd\bin\Debug\MysqlBatchAdd.exe
+E:\MysqlBatchAdd\MysqlBatchAdd\bin\Debug\MysqlBatchAdd.pdb
+E:\MysqlBatchAdd\MysqlBatchAdd\bin\Debug\MySql.Data.dll
+E:\MysqlBatchAdd\MysqlBatchAdd\obj\Debug\MysqlBatchAdd.exe
+E:\MysqlBatchAdd\MysqlBatchAdd\obj\Debug\MysqlBatchAdd.pdb
